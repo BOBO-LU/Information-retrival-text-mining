@@ -1,0 +1,14 @@
+*.pptx
+/期中考古
+/考古題
+/蔡蔡筆記
+*.xlsx
+/.ipynb_checkpoints
+*.pdf
+PA-2/data
+PA-2/output
+PA-2/TFIDF
+*.zip
+*.txt
+*.code-workspace
+.DS_Store
